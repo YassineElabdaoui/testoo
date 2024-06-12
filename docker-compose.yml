@@ -1,0 +1,7 @@
+version : "3.8"
+
+services:
+  yassinev2:
+    build: .
+    ports:
+      - "1122:1122"
